@@ -11,4 +11,4 @@ def isUniqueChars(str):
             char_set[char_pos] = True
     return True
 
-print(isUniqueChars('shovn'))
+print(isUniqueChars('shovon'))
